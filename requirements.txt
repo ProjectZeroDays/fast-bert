@@ -11,3 +11,8 @@ more-itertools
 onnx
 onnxruntime
 onnxruntime-tools
+gradio
+openai
+requests
+beautifulsoup4
+PyGithub

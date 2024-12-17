@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "test": "pip install -e . && pip install pytest && pytest",
+    "build": "pip install -e .",
+    "launch": "python app.py"
+  },
+  "workspaceFolder": "/workspace",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached"
+}

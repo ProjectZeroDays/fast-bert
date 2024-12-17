@@ -11,3 +11,5 @@ more-itertools
 onnx
 onnxruntime
 onnxruntime-tools
+gradio
+openai

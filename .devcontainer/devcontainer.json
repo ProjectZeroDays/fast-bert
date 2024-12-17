@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "test": "pip install -e . && pip install pytest && pytest",
+    "build": "pip install -e .",
+    "launch": "python app.py"
+  }
+}
